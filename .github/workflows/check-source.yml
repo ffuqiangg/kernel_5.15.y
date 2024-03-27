@@ -1,4 +1,4 @@
-name: Check Kernel
+name: Check Soures
 
 env:
   REPO_URL: https://github.com/unifreq/linux-5.15.y
