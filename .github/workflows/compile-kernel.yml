@@ -17,7 +17,7 @@ on:
         type: boolean
 
 env:
-  TZ: Asia/Shanghai
+  TZ: Etc/UTC
 
 jobs:
   build:
